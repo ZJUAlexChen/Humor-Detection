@@ -2,7 +2,7 @@
 NTU AI6103 Deep Learning &amp; Applications Final Project
 
 ## File Structure
-- BERT.ipynb: Codes for Experiment 1: BERT
+- BERT.ipynb: Codes for \textit{Experiment 1: BERT}
 - LSTM.ipynb: Codes for Experiment 2: LSTM
 - GRU.ipynb: Codes for Experiment 3: GRU
 
