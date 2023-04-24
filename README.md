@@ -7,4 +7,4 @@ NTU AI6103 Deep Learning &amp; Applications Final Project
 - GRU.ipynb: Codes for Experiment 3: GRU
 
 ## Reference
- @article{hossain2019president, title={" President Vows to Cut< Taxes> Hair": Dataset and Analysis of Creative Text Editing for Humorous Headlines}, author={Hossain, Nabil and Krumm, John and Gamon, Michael}, journal={arXiv preprint arXiv:1906.00274}, year={2019} }
+[Humicroedit Dataset](https://huggingface.co/datasets/humicroedit)
